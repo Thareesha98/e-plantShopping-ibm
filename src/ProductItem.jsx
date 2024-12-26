@@ -40,4 +40,6 @@ const ProductItem = ({category, itemArray,addToCart,alreadyInCart}) => {
     )
 }
 
+
+
 export default ProductItem
