@@ -51,12 +51,13 @@ body {
     display: flex;
     flex-wrap: wrap;
     gap: 50px;
-    /* background-color: pink; */
     /* justify-content: space-between; */
-    padding: 20px;
+    padding: 90px;
+    
     width: 100%;
     align-items: center;
-    justify-content: center;
+    justify-content: space-around;
+    
 }
 
 /* Product Card */
