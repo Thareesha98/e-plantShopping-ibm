@@ -1,0 +1,11 @@
+img{
+    width: auto;
+    height: 250px;
+}
+
+.product-category{
+    text-align: center;
+    width: 15%;
+    margin-left: 42.5%;
+    margin-top: 1%;
+}
